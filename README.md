@@ -1,0 +1,2 @@
+# NewMavenProject
+hello word program
